@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int mail(){
+int main(){
     int score;
     printf("Input score : ");
     scanf("%d",&score);
